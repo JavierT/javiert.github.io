@@ -1,0 +1,58 @@
+{ 
+    "2005.1":  {
+        "name": "Studying Msc in Computer Engineering",
+        "place": "University of Zaragoza Spain",
+        "year": "2005 - 2012",
+        "showMarker": false,
+        "logo": "NS"
+    },
+    "2011.6":  {
+        "name": "Sotware Engineer",
+        "place": "BitBrain Technologies",
+        "year": "Zaragoza - Spain",
+        "showMarker": true,
+        "logo": "Bt"
+    },
+    "2012.5":  {
+        "name": "Sotware Engineer",
+        "place": "Deloitte",
+        "year": "Huesca - Spain",
+        "showMarker": true,
+        "logo": "D"
+    },
+    "2013.8":  {
+        "name": "Studying Msc in UX",
+        "place": "University of Tampere Finland",
+        "year": "2005 - 2012",
+        "showMarker": false,
+        "logo": ""
+    },
+    "2015.3":  {
+        "name": "Software Engineer",
+        "place": "Entertainment Solutions",
+        "year": "Zaragoza - Spain",
+        "showMarker": true,
+        "logo": "ES"
+    },
+    "2016.9":  {
+        "name": "Moving to France",
+        "place": "Studying french",
+        "year": "Toulouse France",
+        "showMarker": false,
+        "logo": "NS"
+    },
+    "2017.3":  {
+        "name": "Full-stack engineer",
+        "place": "NEO-SOFT Services",
+        "year": "Toulouse - France",
+        "showMarker": true,
+        "logo": "NS"
+    },
+    "2020.2":  {
+        "name": "Lead Frontend Engineer",
+        "place": "3dTrust",
+        "year": "Toulouse - France",
+        "showMarker": true,
+        "logo": "3D"
+    }
+}

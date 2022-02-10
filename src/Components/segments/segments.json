@@ -1,0 +1,78 @@
+{
+  "segments": [
+    {
+      "date": "2011 - 2012",
+      "company": "BitBrain Technologies",
+      "title": "Software engineer",
+      "time": "8 months",
+      "code": "Qt, C++",
+      "team": "5 pers.",
+      "description": [
+        "Thesis for my Msc in CS for the University of Zaragoza.",
+        "Software integration of multimedia components and signal acquisition systems for studies of cerebral neurosciences."
+      ]
+    },
+    {
+        "date": "2012 - 2013",
+        "company": "DELOITTE",
+        "title": "Software engineer",
+        "time": "1 year",
+        "code": "Sharepoint, C# and the framework .NET",
+        "team": "30 pers.",
+        "description": [
+          "Working with teams located in India and USA to develop taxing software for internal use."
+        ]
+      },
+      {
+        "date": "2015 - 2016",
+        "company": "ENTERTAINMENT SOLUTIONS ",
+        "title": "Full-stack engineer",
+        "time": "1.5 year",
+        "code": "PHP, Java, Javascript, PostgreSQL",
+        "team": "5 pers.",
+        "description": [
+          "Interactive TVs in hotels using web-based solution and Android devices.",
+          "I was in charge of creating new releases, database modifications and low-level scripts."
+        ]
+      },
+      {
+        "date": "2017 - 2017",
+        "company": "NEO-SOFT",
+        "title": "Full-stack engineer",
+        "time": "8 months",
+        "code": "Angular 4-7, NodeJS, MongoDB, Bootstrap 4, Git",
+        "team": "2 pers.",
+        "description": [
+          "First mission, Agoranet:  Web application rendered for a Windows tablet.", 
+          "Application web to modify the data in Angular"
+        ]
+      },
+      {
+        "date": "2017 - 2020",
+        "company": "NEO-SOFT",
+        "title": "Full-stack engineer",
+        "time": "2.5 years",
+        "code": "Angular 4-7, Python (tornado), MongoDB, SVN, TSS",
+        "team": "10 pers.",
+        "description": [
+          "Second mission, SCLE: Development of a web application to control power plants", 
+          "Doing developpement as backend and frontend engineer.",
+          "Test backend with Pytest and frontend with Roboframework."
+        ]
+      },
+      {
+        "date": "2020 - Now",
+        "company": "3D Trust",
+        "title": "Frontend engineer",
+        "time": "8 months",
+        "code": "Angular 4-10, Python (tornado/django), PostgreSQL, Git",
+        "team": "4 pers.",
+        "description": [
+          "Application to control addictive 3D printers.",
+          "Redesign and development of the frontend.",
+          "Creation from scratch of a new functionality where customers can send their 3D models to print.",
+          "Remote work 2.5 days per week."
+        ]
+      }
+    ]
+}

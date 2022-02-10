@@ -1,0 +1,49 @@
+
+Markers old map
+<Marker
+          icon={iconExchange}
+          position={[ 42.33501, -0.705521]}
+        >
+          <Popup>
+            <div className='map-popup'>
+              <span className='title'>Exchange student - Master of Science (MSc)</span>
+              <span>Aalto-yliopisto Helsinki Filand</span>
+              <span>2010 - 2011</span>
+            </div>
+          </Popup>
+        </Marker>
+        <Marker
+          icon={iconUni}
+          position={[ 42.349174, -0.689581]}
+        >
+          <Popup>
+            <div className='map-popup'>
+              <span className='title'>Msc in Computer Engineering</span>
+              <span>University of Zaragoza Spain</span>
+              <span>2005 - 2012</span>
+            </div>
+          </Popup>
+        </Marker>
+        <Marker 
+          icon={iconSchool} 
+          position={[42.316008, -0.606085]}
+          >
+          <Popup>
+          <div className='map-popup'>
+              <span className='title'>High school degree in science</span>
+              <span>Colegio Altoaragon - Huesca</span>
+              <span>2004</span>
+            </div>
+          </Popup>
+        </Marker>
+        <Marker 
+          icon={iconHome} 
+          position={[42.257295, -0.512432]}
+          >
+          <Popup>
+          <div className='map-popup'>
+              <span className='title'>Welcome to my education path</span>
+              <span>click on the other icons to see more details</span>
+            </div>
+          </Popup>
+        </Marker>

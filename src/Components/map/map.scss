@@ -1,0 +1,101 @@
+@import "../../variables";
+.map-height {
+  max-height: 400px;
+  @media (max-width: $media-tablet) {
+    max-height: 330px;
+  }
+}
+
+.map-help {
+  position: absolute;
+  top: 9px;
+  left: 50px;
+  z-index: 1000;
+  max-width: 150px;
+  background-color: #ffffffa3;
+  border-radius: 5px;
+  @media (max-width: $media-tablet) {
+    font-size: 14px;
+  }
+}
+
+.map-position {
+  position: relative;
+}
+
+.marker-pin {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  background: #c30b82;
+  position: absolute;
+  transform: rotate(-45deg);
+  top: 5px;
+  left: 0;
+}
+
+.inverted-marker-pin {
+  @extend .marker-pin;
+  top: 46px;
+  left: -2px;
+  transform: rotate(135deg);
+}
+
+.icon-inverted {
+  top: 40px !important;
+  left: -4px !important;
+}
+
+.right-marker-pin {
+  @extend .marker-pin;
+  top: 30px;
+  left: 23px;
+  transform: rotate(55deg);
+}
+
+.icon-right {
+  top: 24px !important;
+  left: 27px !important;
+}
+.marker-pin::after {
+  content: "";
+  width: 24px;
+  height: 24px;
+  margin: 3px 0 0 3px;
+  background: #fff;
+  position: absolute;
+  border-radius: 50%;
+}
+
+.custom-div-icon i {
+  position: absolute;
+  width: 22px;
+  font-size: 22px;
+  left: 0;
+  top: -2px;
+  right: 0;
+  margin: 10px auto;
+  text-align: center;
+}
+
+.custom-div-icon i.awesome {
+  margin: 12px auto;
+  font-size: 17px;
+}
+
+.map-popup {
+  display: flex;
+  flex-direction: column;
+
+  span {
+    margin-bottom: 5px;
+  }
+
+  .title {
+    font-weight: bolder;
+  }
+}
+
+.leaflet-popup {
+  bottom: -5px !important;
+}

@@ -1,0 +1,40 @@
+{
+    "activities": [
+        { 
+            "title": "Kanji rumble game",
+            "date": "2020",
+            "map":"https://www.strava.com/activities/2411407657",
+            "link": "http://kanji-rumble.javiertresaco.com/#/home",
+            "mapImg":"kanji-map.png",
+            "icon": "fas fa-laptop-code",
+            "techs": "Angular 8 + Firebase",
+            "desc": "A website directed to beginner Japanese learners to help them with the struggle of adapting to a new writing system.",
+            "img1":"kanji1.png",
+            "img2": "kanji2.png"
+        },
+        { 
+            "title": "Les vergers du bedou",
+            "date": "2019 - 2020",
+            "map":"https://www.strava.com/activities/4025157482",
+            "link": "https://lesvergersdubedou.fr/",
+            "mapImg":"bedou-map.png",
+            "icon": "fas fa-laptop-code",
+            "techs": "Angular 9 + Firebase",
+            "desc": "A website for a local commerce in Mirepoix (France). Administration site included.",
+            "img1":"bedou1.png",
+            "img2": "bedou2.png"
+        },
+        { 
+            "title": "Sociodraw",
+            "date": "2016",
+            "map":"https://www.strava.com/activities/4458344981",
+            "link": "https://github.com/JavierT/SocioDraw",
+            "mapImg":"sociodraw-map.png",
+            "icon": "fas fa-laptop-code",
+            "techs": "Android 4 + UX testing. Thesis available upon request.",
+            "desc": "Android drawing game to connect several devices under the same wireless network. Developped under the Msc thesis at the Tampere University of Technology",
+            "img1":"imaginary.png",
+            "img2": "imaginary2.png"
+        }
+]
+}
